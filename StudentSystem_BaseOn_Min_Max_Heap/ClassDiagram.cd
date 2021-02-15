@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ADD">
+    <Position X="10.25" Y="4" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ADD::__unnamed_enum_0367_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ADD.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAIAIABAAAAAgBAAAASAAAAAAAAACAAA=</HashCode>
+      <FileName>ADD.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIALOG_CHECK">
+    <Position X="10.25" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="DIALOG_CHECK::__unnamed_enum_0372_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DIALOG_CHECK.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAAAAAAAAIABAAAACABAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DIALOG_CHECK.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="min_max_heap&lt;item&gt;">
+    <Position X="3.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAACBgQAEBAAAAAAEAAAAACQgAABAACAAAAAAAQAhA=</HashCode>
+      <FileName>Min_Max_Heap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="student">
+    <Position X="0.5" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAISAAIBIEAAAAAABCAAoAAAAAAEBABAAQIkIgCgAAA=</HashCode>
+      <FileName>studentInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStudentSystemBaseOnMinMaxHeapDlg">
+    <Position X="6.5" Y="1" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CStudentSystemBaseOnMinMaxHeapDlg::__unnamed_enum_0008_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>StudentSystem_BaseOn_Min_Max_HeapDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>MACCAgHxgAAAAgAMEJAAAECEAgRAAAUABAAEAAAQgAA=</HashCode>
+      <FileName>StudentSystem_BaseOn_Min_Max_HeapDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
